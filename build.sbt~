@@ -1,4 +1,4 @@
-name := """bookstoreapp-JShin39"""
+name := """PlayTemplate"""
 organization := "ca.ycdsb"
 
 version := "1.0-SNAPSHOT"
